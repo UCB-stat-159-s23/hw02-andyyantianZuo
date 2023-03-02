@@ -10,9 +10,6 @@ dependencies:
   - matplotlib=3.5
   - scipy=1.8
   - decorator=5.1
-  - cycler==0.11
-  - fonttools==4.34
-  - kiwisolver==1.4
-  - matplotlib==3.5
-  - pillow==9.2
+  - json5=0.9
+  - ipython=8.2
 prefix: /srv/conda/envs/ligo
